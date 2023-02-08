@@ -1,6 +1,7 @@
 
 # this is the second test for githyb
 # this is the third test for github
+# this is the forth test for git hub
 # jadi tutorial
 
 # first session intro
@@ -61,7 +62,7 @@ elif int(num3) >= int(num2):
         print(num3)
 
 ### this is for test the github
-
+# this is the fifth test for git hub
 num5 = input()
 print(isinstance(int(num5), int))
 
