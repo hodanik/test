@@ -2,6 +2,8 @@
 # this is the second test for githyb
 # this is the third test for github
 # this is the forth test for git hub
+# this is the sixth test
+# this is the seventh test
 # this is the fifth test
 # jadi tutorial
 
